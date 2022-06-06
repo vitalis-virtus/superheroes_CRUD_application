@@ -1,4 +1,4 @@
-Full Stack CRUD apllication, in which you can:
+Back-end part of Full-stack CRUD apllication, in which you can:
  - create superhero character and add it to the MongoDB Atlas Database
  - view all superheroes in packs of 5 characters using pagination
  - edit information of any superhero
@@ -6,6 +6,7 @@ Full Stack CRUD apllication, in which you can:
 
 Technologies used:
 
+- JS
 - NodeJS
 - Express
 - Mongoose
